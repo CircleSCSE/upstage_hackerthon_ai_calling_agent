@@ -37,7 +37,7 @@
 
 이 시스템은 입력된 음성 데이터가 **n8n 워크플로우**를 통과하며 실시간으로 분석 및 전파되는 구조입니다.
 
-![Workflow System Structure](./workflow.png)
+![Workflow System Structure](./workflow_image.png)
 
 ### 핵심 로직 상세
 
