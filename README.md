@@ -37,17 +37,7 @@
 
 이 시스템은 입력된 음성 데이터가 **n8n 워크플로우**를 통과하며 실시간으로 분석 및 전파되는 구조입니다.
 
-```mermaid
-graph LR
-    A[Caller Voice] --> B(AWS Transcribe);
-    B --> C{Solar Pro 2 (AI Agent)};
-    C -- Reference --> D[Table Sheet (Triage Criteria)];
-    C -- NER Analysis --> E[Location & Urgency Type];
-    C --> F[Risk Grading (L1~L3)];
-    F --> G{Switch Node};
-    G -- L3 (Critical) --> H[Broadcast to Gov/Police API];
-    G -- L1 (Normal) --> I[Log & Monitor];
-````
+![Workflow System Structure](./workflow.png)
 
 ### 핵심 로직 상세
 
@@ -90,7 +80,6 @@ graph LR
 
 ## 📂 Project Materials
 
-  * **Presentation & Demo**: [파일 업로드 후 링크 연결]
-  * **Workflow Source**: [파일 업로드 후 링크 연결]
-
+* **Presentation PDF**: [발표 자료 PDF 보기](./presentation.pdf)
+* **Presentation Script**: [발표 대본 보기](./PRESENTATION_SCRIPT.md)
 
