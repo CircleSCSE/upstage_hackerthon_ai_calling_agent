@@ -49,7 +49,7 @@
 
 ## 🧑‍💻 My Contributions (나의 기여)
 
-**Role: PM & Presenter** 단순한 기술 구현을 넘어, **"왜 이 기술이 필요한가?"**에 대한 당위성을 설계하고 팀의 방향성을 제시했습니다.
+**Role: PM & Presenter** 단순한 기술 구현을 넘어, "왜 이 기술이 필요한가?"에 대한 당위성을 설계하고 팀의 방향성을 제시했습니다.
 
 ### 1\. Narrative & Logic Design
 
