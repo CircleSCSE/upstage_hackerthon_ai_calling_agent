@@ -42,7 +42,7 @@
 ### 핵심 로직 상세
 
 1.  **STT & NER**: AWS Transcribe로 텍스트 변환 후, AI가 신고자의 **위치**와 **긴급 유형**을 자동 추출합니다.
-2.  **Solar Pro 2 Risk Grading**: 사전 정의된 기준표(Table Sheet)를 바탕으로 AI가 상황을 분석해 **L1(경미)부터 L3(심각)**까지 위험도를 등급화합니다.
+2.  **Solar Pro 2 Risk Grading**: 사전 정의된 기준표(Table Sheet)를 바탕으로 AI가 상황을 분석해 "L1(경미)부터 L3(심각)"까지 위험도를 등급화합니다.
 3.  **Auto-Propagation (일괄 전파)**: 위험도에 따라 Switch Node가 작동하여, 경찰/소방 등 유관 기관 API로 상황을 즉시 전파합니다.
 
 -----
