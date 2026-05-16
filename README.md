@@ -4,6 +4,11 @@
 > **Role:** PM (Product Manager), Presenter, Workflow Facilitator  
 > **Period:** 2025.11.12 ~ 2025.11.20
 
+<div align="center"> 
+<img src="https://github.com/user-attachments/assets/79feabe9-e00e-44b5-b87f-1bf31586f0eb" width="700" alt="사이트_실행">
+<p><em> [ 그림 1 ] 입선 이상 참여자들 ( 🤗 -> ME! ) </em></p>
+</div>
+
 ---
 
 ## 📖 Project Overview (프로젝트 개요)
